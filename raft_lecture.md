@@ -15,4 +15,7 @@ Dr. Jin Li manages the Cloud Computing and Storage group at MSR Technologies/MSR
 + [Raft TLA+ specification](https://github.com/ongardie/raft.tla)
 
 ### Media
-+ [live streaming](https://meet.lync.com/microsoft/chengh/Q3SPSJ82)
++ [video](https://www.youtube.com/watch?v=6Kwx8zfGW0Y)
++ [slides](http://www.slideshare.net/DrTlaplusSeries/dr-tla-series-raft-jin-li)
+
+[back to schedule](https://github.com/tlaplus/DrTLAPlus)
