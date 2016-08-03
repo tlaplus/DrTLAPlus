@@ -1,0 +1,6 @@
+{
+  "name": "Dr. TLA+ Series",
+  "tagline": "",
+  "body": "### Dr. TLA+ Series\r\n\r\n#### Lecture schedule (Time: 10-11:30am PDT)\r\n\r\n|            | Date          | Speaker       | Topic |  Media      |\r\n|:----------:| ------------- |:-------------:| :----:| :----------:|\r\n|            | June 22, 2016 | [Andrew Helwer](https://www.linkedin.com/in/ahelwer) | [Paxos](./paxos_lecture.md) | [video](https://www.youtube.com/watch?v=zCaJSrTmUFA), [slides](http://www.slideshare.net/DrTlaplusSeries/dr-tla-series-paxos)\r\n|            | July 21, 2016 | [Jin Li](http://research.microsoft.com/~jinl) | [Raft](./raft_lecture.md) | [video](https://www.youtube.com/watch?v=6Kwx8zfGW0Y), [slides] (http://www.slideshare.net/DrTlaplusSeries/dr-tla-series-raft-jin-li)\r\n| *upcoming* | July, 2016    | [Murat Demirbas](http://www.cse.buffalo.edu/~demirbas/) | Logical Physical Clocks | \r\n|            | August, 2016  | [Cheng Huang](http://research.microsoft.com/~chengh) | Fast Paxos | \r\n|            | September, 2016  | [Rustan Leino](http://research.microsoft.com/~leino) | Global Snapshot | \r\n|            | TBD | [Chris Newcombe](https://www.linkedin.com/in/chris-newcombe-b33a081) | Serializable Snapshot Isolation | \r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
