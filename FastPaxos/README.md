@@ -5,10 +5,8 @@ August 29, 2016 - 10-11:30am PDT
 
 ### Abstract
 Replicating data across geographically distributed data centers is the new norm in cloud services. Compared to Classic Paxos, Fast Paxos shines more favorably, because
-
--replication can be initiated from arbitrary DC (and there is no need to pump data through a dedicated primary DC);
-
--replication can be completed in single WAN round trip.
+..* replication can be initiated from arbitrary DC (and there is no need to pump data through a dedicated primary DC);
+..* replication can be completed in single WAN round trip.
 
 This meetup studies Leslie Lamports seminal paper on Fast Paxos and its TLA+ specification.
 
