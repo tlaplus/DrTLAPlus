@@ -15,7 +15,7 @@ This meetup studies Leslie Lamport's seminal paper on Fast Paxos and its TLA+ sp
  
 ### Prerequisite
 + none
-+ most helpful to review [Andrew Helwers lecture on Classic Paxos](https://github.com/tlaplus/DrTLAPlus/blob/master/paxos_lecture.md)
++ most helpful to review [Andrew Helwer's lecture on Classic Paxos](https://github.com/tlaplus/DrTLAPlus/blob/master/paxos_lecture.md)
 
 ### Paper and Spec
 (not required, but helpful to take a look)
