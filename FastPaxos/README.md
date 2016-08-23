@@ -8,7 +8,7 @@ Replicating data across geographically distributed data centers is the new norm 
 + replication can be initiated from arbitrary DC (and there is no need to pump data through a dedicated primary DC);
 + replication can be completed in single WAN round trip.
 
-This meetup studies Leslie Lamports seminal paper on Fast Paxos and its TLA+ specification.
+This meetup studies Leslie Lamport's seminal paper on Fast Paxos and its TLA+ specification.
 
 ### Bio
 [Dr. Cheng Huang](http://research.microsoft.com/~chengh) is a research scientist and tech lead at Microsoft. Cheng has been with Microsoft Research for 11 years. Most recently, he joined the Azure Storage team to full-time help making the Microsoft cloud more scalable and cost effective.
