@@ -13,6 +13,6 @@
 
 
 #### Each session wll focus on a single algorithm/protocol and:
-+ dive deep into how the algorithm and protocol works
-+ illustrate in detail how the TLA+ specification is written
-+ share the learnings from writing/studying the TLA+ specification
++ dive deep into how the algorithm and protocol works;
++ illustrate in detail how the TLA+ specification is written;
++ share the learnings from writing and studying the specification.
