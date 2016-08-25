@@ -1,4 +1,4 @@
-### Dr. TLA+ Series
+### Dr. TLA+ Series - learn an algorithm and protocol, study a specification
 
 #### Lecture schedule (Time: 10-11:30am PDT)
 
