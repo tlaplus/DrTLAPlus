@@ -23,7 +23,7 @@ This meetup studies Leslie Lamport's seminal paper on Fast Paxos and its TLA+ sp
 + [TLA+ specification](./FastPaxos.tla)
 
 ### Media
-+ video (to be uploaded)
++ [video](https://www.youtube.com/watch?v=eW6Zv0X53T4)
 + [slides](./FastPaxos.pdf)
 
 [back to schedule](https://github.com/tlaplus/DrTLAPlus)
