@@ -18,6 +18,6 @@ Andrew Helwer is a software engineer in Microsoft Azure, living in Seattle WA. H
 
 ### Media
 + [video](https://www.youtube.com/watch?v=zCaJSrTmUFA)
-+ [slides](http://www.slideshare.net/DrTlaplusSeries/dr-tla-series-paxos)
++ [slides](./Paxos.pdf)
 
 [back to schedule](https://github.com/tlaplus/DrTLAPlus)
