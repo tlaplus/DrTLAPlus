@@ -11,8 +11,8 @@ Microsoft Building 99, Research Lecture Room B (99/1927)
 A snapshot of the state of a running program is useful in several ways.  For example, it can serve as a check point from which to restart the execution, in case the rest of the execution fails in some way.  Another example use of a snapshot is to detect that some stable condition, such as a deadlock, has occurred.  This lecture will discuss algorithms for capturing a global snapshot of a distributed, asynchronous system.  It will focus on writing a formal specification of such algorithms.
 
 If you want to do or think about something before the lecture, I suggest:
-+ Think about how you would write a specification of a Global Snapshot
-+ Read something about Global Snapshots, such as:
+1. Think about how you would write a specification of a Global Snapshot
+2. Read something about Global Snapshots, such as:
 ..1. Chapter 10, Parallel Program Design, by K.M. Chandy and J. Misra (Addison-Wesley, 1988)
 ..2. “Distributed Snapshots: Determining Global States of Distributed Systems”, K.M. Chandy and L. Lamport, ACM TOCS, 3:1 (1985)
 ..3. “The Distributed Snapshot of K.M. Chandy and L. Lamport”, in Control Flow and Data Flow, ed. M. Broy (Springer, 1985), a version of which is found as [EWD 864](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD864.html)
