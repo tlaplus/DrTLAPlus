@@ -23,6 +23,6 @@ Rustan Leino is Principal Researcher in the [Research in Software Engineering (R
 Prior to Microsoft Research, Leino worked at DEC/Compaq SRC.  Advised by K. Mani Chandy, he received his PhD from Caltech (1995), before which he designed and wrote object-oriented software as a technical lead in the Windows NT group at Microsoft.  Leino collects [thinking puzzles](http://research.microsoft.com/en-us/um/people/leino/puzzles.html) on a popular web page and hosts the [Verification Corner](https://www.youtube.com/channel/UCP2eLEql4tROYmIYm5mA27A) channel on youtube. 
 
 ### Media
-+ live broadcast (to be updated)
++ [live](https://meet.lync.com/microsoft/chengh/MV4668M4)
 
 [back to the complete schedule of Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus)
