@@ -8,7 +8,7 @@
 |            | 07.21.2016 | [Jin Li](http://research.microsoft.com/~jinl) | [Raft](./Raft/README.md) | [video](https://www.youtube.com/watch?v=6Kwx8zfGW0Y), [slides](./Raft/Raft.pdf)
 |            | 08.29.2016  | [Cheng Huang](http://research.microsoft.com/~chengh) | [Fast Paxos](./FastPaxos/README.md) | [video](https://www.youtube.com/watch?v=eW6Zv0X53T4), [slides](./FastPaxos/FastPaxos.pdf)
 |            | 09.23.2016  | [Rustan Leino](http://research.microsoft.com/~leino) | [Global Snapshots](./GSnapshot/README.md) | [video](https://www.youtube.com/watch?v=ao58xine3jM), [slides](./GSnapshot/GlobalSnapshots.pdf)
-|&rarr;      | 11.09.2016 | Heidi Howard | [Flexible Paxos](./FlexiblePaxos/README.md) | stay tuned
+|&rArr;      | 11.09.2016 | Heidi Howard | [Flexible Paxos](./FlexiblePaxos/README.md) | stay tuned
 |            | December, 2016 | [Shuai Mu](http://www.mpaxos.com/) | Practical Byzantine / Byzantine Paxos |
 |            | January, 2017 | [Stephan Merz](http://www.loria.fr/~merz/) | Termination Detection |
 |            | TBD | [Chris Newcombe](https://www.linkedin.com/in/chris-newcombe-b33a081) | Serializable Snapshot Isolation |
