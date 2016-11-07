@@ -1,7 +1,7 @@
 ## Dr. TLA+ Series - Flexible Paxos (Heidi Howard)
 
 ### Time
-November 9, 2016 (TBD)
+November 9, 2016 (10am, UK time)
 
 ### Abstract
 The Paxos algorithm is a widely adopted approach to reaching agreement in unreliable asynchronous distributed systems. Since its development in 1998, Paxos has been extensively researched, taught and built upon by systems such as Chubby, Zookeeper and Raft. At its foundation, Paxos uses two phases, each requiring agreement from a quorum of participants to reliably reach consensus.
@@ -20,6 +20,6 @@ This lecture will introduce Flexible Paxos, the simple yet powerful result that 
 + [TLA+ Spec for Flexible Paxos](https://github.com/fpaxos)
 
 ### Media
-+ video (to be updated)
++ no live streaming (on-demand available later)
 
 [back to schedule](https://github.com/tlaplus/DrTLAPlus)
