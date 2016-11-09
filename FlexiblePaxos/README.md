@@ -20,6 +20,7 @@ This lecture will introduce Flexible Paxos, the simple yet powerful result that 
 + [TLA+ Spec for Flexible Paxos](https://github.com/fpaxos)
 
 ### Media
-+ no live streaming (on-demand available later)
++ on-demand available soon
++ [slides](./FlexiblePaxos.pdf)
 
 [back to schedule](https://github.com/tlaplus/DrTLAPlus)
