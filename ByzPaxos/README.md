@@ -14,9 +14,7 @@ We will also explain how Byzantine Paxos is connected with the Practical Byzanti
 ### Paper and Spec
 + [Byzantizing Paxos by Refinement](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 + [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf)
-
-[Q] Shuai, is below the right TLA+ spec?
-+ [Byzantine Paxos TLA+ specification](http://research.microsoft.com/en-us/um/people/chengh/private/Paxos.tla)
++ [Byzantine Paxos TLA+ specification](http://research.microsoft.com/en-us/um/people/lamport/tla/byzpaxos.html)
 
 ### Media
 
