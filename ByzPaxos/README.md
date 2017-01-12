@@ -12,7 +12,7 @@ We will also explain how Byzantine Paxos is connected with the Practical Byzanti
 [Shuai Mu](http://mpaxos.com/) is a post-doc in New York University. He recently received his PhD from Tsinghua University. Shuai is studying on how to improve performance, scalability and consistency in distributed systems.
 
 ### Paper and Spec
-Q: Shuai, does the below link doesn't look right?
+Q: Shuai, does the below link look right?
 + [Byzantizing Paxos by Refinement](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 
 + [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf)
