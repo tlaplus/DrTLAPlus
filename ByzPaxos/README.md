@@ -1,7 +1,7 @@
 ## Dr. TLA+ Series - Byzantine Paxos (Shuai Mu)
 
 ### Time
-TBD
+January 20, 2016 - 10-11:30am PST
 
 ### Abstract
 In this lecture we will discuss how to tolerate Byzantine faults in achieving consensus. We illustrate through refining Paxos step by step. This should be most fun to those who have become familiar with Paxos-based distributed consensus through the Series. Enough background of Paxos will be covered so the lecture requires no Paxos expertise.
@@ -17,5 +17,6 @@ We will also explain how Byzantine Paxos is connected with the Practical Byzanti
 + [Byzantine Paxos TLA+ specification](http://research.microsoft.com/en-us/um/people/lamport/tla/byzpaxos.html)
 
 ### Media
++ [live streaming](https://meet.lync.com/microsoft/chengh/GWVWQPHG)
 
 [back to schedule](https://github.com/tlaplus/DrTLAPlus)
