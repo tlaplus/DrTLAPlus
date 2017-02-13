@@ -17,6 +17,6 @@ We will also explain how Byzantine Paxos is connected with the Practical Byzanti
 + [Byzantine Paxos TLA+ specification](http://research.microsoft.com/en-us/um/people/lamport/tla/byzpaxos.html)
 
 ### Media
-+ [live streaming](https://meet.lync.com/microsoft/chengh/GWVWQPHG)
++ [video](https://www.youtube.com/watch?v=XnfAZHkyOy4)
 
 [back to schedule](https://github.com/tlaplus/DrTLAPlus)
