@@ -18,5 +18,6 @@ We will also explain how Byzantine Paxos is connected with the Practical Byzanti
 
 ### Media
 + [video](https://www.youtube.com/watch?v=XnfAZHkyOy4)
++ [slides](./byz_paxos.pdf)
 
 [back to schedule](https://github.com/tlaplus/DrTLAPlus)
