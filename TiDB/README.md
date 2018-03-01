@@ -1,7 +1,7 @@
 ## Dr. TLA+ Series - Verifying Distributed Transaction with TLA+ in TiDB (Ed Huang)
 
 ### Time
-Feburary, 2018
+Thursday March 1, 2018 (2am, Beijing Time)
 
 ### Abstract
 TiDB is an open source distributed Hybrid Transactional/Analytical Processing (HTAP) database that empowers users to meet both online transactional and real-time analytical workloads with a single database. The design is inspired by Google Spanner/F1, and highly compatible with MySQL, for more information, please check out: [http://github.com/pingcap/tidb](http://github.com/pingcap/tidb).

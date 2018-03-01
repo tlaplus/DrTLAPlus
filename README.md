@@ -10,7 +10,7 @@
 |            | 09.23.2016  | [Rustan Leino](http://research.microsoft.com/~leino) | [Global Snapshots](./GSnapshot/README.md) | [video](https://www.youtube.com/watch?v=ao58xine3jM), [slides](./GSnapshot/GlobalSnapshots.pdf)
 |            | 11.09.2016 | [Heidi Howard](http://hh360.user.srcf.net/blog/) | [Flexible Paxos](./FlexiblePaxos/README.md) | [video](https://www.youtube.com/watch?v=LX-WK8EmoFE), [slides](./FlexiblePaxos/FlexiblePaxos.pdf)
 |            | 01.20.2017 | [Shuai Mu](http://www.mpaxos.com/) | [Byzantine Paxos](./ByzPaxos/README.md)  | [video](https://www.youtube.com/watch?v=XnfAZHkyOy4), [slides](./ByzPaxos/byz_paxos.pdf)
-|&rArr;      | Feb. 2018 | Ed Huang | [Verifying Distributed Transaction with TLA+ in TiDB](./TiDB/README.md)  |
+|&rArr;      | 03.01.2018 | Ed Huang | [Verifying Distributed Transaction with TLA+ in TiDB](./TiDB/README.md)  |
 |            | TBD | [Stephan Merz](http://www.loria.fr/~merz/) | Termination Detection |
 |            | TBD | [Chris Newcombe](https://www.linkedin.com/in/chris-newcombe-b33a081) | Serializable Snapshot Isolation |
 
