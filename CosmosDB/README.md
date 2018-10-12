@@ -1,7 +1,7 @@
 ## Dr. TLA+ Series - TLA+ specifications of the consistency guarantees provided by Cosmos DB (Murat Demirbas)
 
 ### Time
-October 30, 2018 - 10-11:30am PST
+November 01, 2018 - 10-11:30am PST
 
 ### Abstract
 Microsoft Azure Cosmos DB provides 5 well defined operation consistency properties to the clients: strong consistency, bounded staleness, session consistency, consistent prefix, and eventual consistency. Here we provide client-centric TLA+ specifications of these properties to help the users understand the consistency guarantees provided to them. We refrain from discussing the models for Cosmos DB internals as that is not very useful/relevant for the Cosmos DB users.
