@@ -11,6 +11,7 @@
 |            | 11.09.2016 | [Heidi Howard](http://hh360.user.srcf.net/blog/) | [Flexible Paxos](./FlexiblePaxos/README.md) | [video](https://www.youtube.com/watch?v=LX-WK8EmoFE), [slides](./FlexiblePaxos/FlexiblePaxos.pdf)
 |            | 01.20.2017 | [Shuai Mu](http://www.mpaxos.com/) | [Byzantine Paxos](./ByzPaxos/README.md)  | [video](https://www.youtube.com/watch?v=XnfAZHkyOy4), [slides](./ByzPaxos/byz_paxos.pdf)
 |&rArr;      | 03.01.2018 | Ed Huang | [Verifying Distributed Transaction with TLA+ in TiDB](./TiDB/README.md)  |
+|            | 10.30.2018 | [Murat Demirbas](http://muratbuffalo.blogspot.com) | [TLA+ specifications of the consistency guarantees provided by Cosmos DB](./CosmosDB/README.md)  |
 |            | TBD | [Stephan Merz](http://www.loria.fr/~merz/) | Termination Detection |
 |            | TBD | [Chris Newcombe](https://www.linkedin.com/in/chris-newcombe-b33a081) | Serializable Snapshot Isolation |
 
