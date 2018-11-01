@@ -12,7 +12,7 @@
 |            | 01.20.2017 | [Shuai Mu](http://www.mpaxos.com/) | [Byzantine Paxos](./ByzPaxos/README.md)  | [video](https://www.youtube.com/watch?v=XnfAZHkyOy4), [slides](./ByzPaxos/byz_paxos.pdf)
 |&rArr;      | 03.01.2018 | Ed Huang | [Verifying Distributed Transaction with TLA+ in TiDB](./TiDB/README.md)  |
 |            | 11.01.2018 | [Murat Demirbas](http://muratbuffalo.blogspot.com) | [TLA+ specifications of the consistency guarantees provided by Cosmos DB](./CosmosDB/README.md)  |
-|            | TBD | [Stephan Merz](http://www.loria.fr/~merz/) | Termination Detection |
+|            | TBD (2019) | [Stephan Merz](http://www.loria.fr/~merz/) | Termination Detection |
 
 
 #### Each session wll focus on a single algorithm/protocol and:
