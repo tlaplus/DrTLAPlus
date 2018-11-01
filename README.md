@@ -13,7 +13,6 @@
 |&rArr;      | 03.01.2018 | Ed Huang | [Verifying Distributed Transaction with TLA+ in TiDB](./TiDB/README.md)  |
 |            | 11.01.2018 | [Murat Demirbas](http://muratbuffalo.blogspot.com) | [TLA+ specifications of the consistency guarantees provided by Cosmos DB](./CosmosDB/README.md)  |
 |            | TBD | [Stephan Merz](http://www.loria.fr/~merz/) | Termination Detection |
-|            | TBD | [Chris Newcombe](https://www.linkedin.com/in/chris-newcombe-b33a081) | Serializable Snapshot Isolation |
 
 
 #### Each session wll focus on a single algorithm/protocol and:
