@@ -10,9 +10,9 @@
 |            | 09.23.2016  | [Rustan Leino](http://research.microsoft.com/~leino) | [Global Snapshots](./GSnapshot/README.md) | [video](https://www.youtube.com/watch?v=ao58xine3jM), [slides](./GSnapshot/GlobalSnapshots.pdf)
 |            | 11.09.2016 | [Heidi Howard](http://hh360.user.srcf.net/blog/) | [Flexible Paxos](./FlexiblePaxos/README.md) | [video](https://www.youtube.com/watch?v=LX-WK8EmoFE), [slides](./FlexiblePaxos/FlexiblePaxos.pdf)
 |            | 01.20.2017 | [Shuai Mu](http://www.mpaxos.com/) | [Byzantine Paxos](./ByzPaxos/README.md)  | [video](https://www.youtube.com/watch?v=XnfAZHkyOy4), [slides](./ByzPaxos/byz_paxos.pdf)
-|&rArr;      | 03.01.2018 | Ed Huang | [Verifying Distributed Transaction with TLA+ in TiDB](./TiDB/README.md)  |
-|            | 11.01.2018 | [Murat Demirbas](http://muratbuffalo.blogspot.com) | [TLA+ specifications of the consistency guarantees provided by Cosmos DB](./CosmosDB/README.md)  |
-|            | TBD (2019) | [Stephan Merz](http://www.loria.fr/~merz/) | Termination Detection |
+|            | 03.01.2018 | Ed Huang | [Verifying Distributed Transaction with TLA+ in TiDB](./TiDB/README.md)  |
+|            | 11.01.2018 | [Murat Demirbas](http://muratbuffalo.blogspot.com) | [Consistency guarantees provided by Cosmos DB](./CosmosDB/README.md)  | [slides](./CosmosDB/CosmosDB.pdf)
+|&rArr;      | TBD (2019) | [Stephan Merz](http://www.loria.fr/~merz/) | Termination Detection |
 
 
 #### Each session wll focus on a single algorithm/protocol and:
