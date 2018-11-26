@@ -13,6 +13,7 @@ Microsoft Azure Cosmos DB provides 5 well defined operation consistency properti
 see [azure-cosmos-tla](https://github.com/Azure/azure-cosmos-tla)
 
 ### Media
++ [video](https://youtu.be/Ej6dlMBvUBI)
 + [slides](./CosmosDB.pdf)
 
 [back to schedule](https://github.com/tlaplus/DrTLAPlus)
