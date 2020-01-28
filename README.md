@@ -12,8 +12,8 @@
 |            | 01.20.2017 | [Shuai Mu](http://www.mpaxos.com/) | [Byzantine Paxos](./ByzPaxos/README.md)  | [video](https://www.youtube.com/watch?v=XnfAZHkyOy4), [slides](./ByzPaxos/byz_paxos.pdf)
 |            | 03.01.2018 | Ed Huang | [Verifying Distributed Transaction with TLA+ in TiDB](./TiDB/README.md)  |
 |            | 11.01.2018 | [Murat Demirbas](http://muratbuffalo.blogspot.com) | [Consistency guarantees provided by Cosmos DB](./CosmosDB/README.md)  | [video](https://youtu.be/Ej6dlMBvUBI), [slides](./CosmosDB/CosmosDB.pdf)
-|            | 11.01.2018 | [Saksham Chand](https://www.linkedin.com/in/saksham-chand-b1a19b91/) | [Specification and Verification of Multi-Paxos](./MultiPaxos/README.md)  | [video](https://youtu.be/uBQSE4MMWhY), [slides](./MultiPaxos/SakshamChand_MultiPaxos.pdf)
-|&rArr;      | TBD (2019) | [Stephan Merz](http://www.loria.fr/~merz/) | Termination Detection |
+|            | 11.15.2019 | [Saksham Chand](https://www.linkedin.com/in/saksham-chand-b1a19b91/) | [Specification and Verification of Multi-Paxos](./MultiPaxos/README.md)  | [video](https://youtu.be/uBQSE4MMWhY), [slides](./MultiPaxos/SakshamChand_MultiPaxos.pdf)
+|&rArr;      | TBD (2020) | [Stephan Merz](http://www.loria.fr/~merz/) | Termination Detection |
 
 
 #### Each session wll focus on a single algorithm/protocol and:
