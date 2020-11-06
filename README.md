@@ -16,7 +16,7 @@
 |&rArr;      | TBD (2020) | [Stephan Merz](http://www.loria.fr/~merz/) | Termination Detection |
 
 
-#### Each session wll focus on a single algorithm/protocol and:
+#### Each session will focus on a single algorithm/protocol and:
 + dive deep into how the algorithm and protocol works;
 + illustrate in detail how the TLA+ specification is written;
 + share the learnings from writing and studying the specification.
