@@ -13,7 +13,7 @@
 |            | 03.01.2018 | Ed Huang | [Verifying Distributed Transaction with TLA+ in TiDB](./TiDB/README.md)  |
 |            | 11.01.2018 | [Murat Demirbas](http://muratbuffalo.blogspot.com) | [Consistency guarantees provided by Cosmos DB](./CosmosDB/README.md)  | [video](https://youtu.be/Ej6dlMBvUBI), [slides](./CosmosDB/CosmosDB.pdf)
 |            | 11.15.2019 | [Saksham Chand](https://www.linkedin.com/in/saksham-chand-b1a19b91/) | [Specification and Verification of Multi-Paxos](./MultiPaxos/README.md)  | [video](https://youtu.be/uBQSE4MMWhY), [slides](./MultiPaxos/SakshamChand_MultiPaxos.pdf)
-|&rArr;      | TBD (2020) | [Stephan Merz](http://www.loria.fr/~merz/) | Termination Detection |
+|&rArr;      | 02.XX.2021 | [Stephan Merz](http://www.loria.fr/~merz/) & [Markus Kuppe](https://lemmster.de) | Termination Detection (EWD840 & EWD998) |
 
 
 #### Each session will focus on a single algorithm/protocol and:
