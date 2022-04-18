@@ -1,7 +1,5 @@
 ### Dr. TLA+ Series - learn an algorithm and protocol, study a specification
 
-#### Lecture schedule (Time: 10-11:30am PDT)
-
 |            | Date          | Speaker       | Topic |   Media    |
 |:----------:| ------------- |:-------------:| :----:|:----------:|
 |            | 06.22.2016 | [Andrew Helwer](https://www.linkedin.com/in/ahelwer) | [Paxos](./Paxos/README.md) | [video](https://www.youtube.com/watch?v=zCaJSrTmUFA), [slides](./Paxos/Paxos.pdf)
